@@ -81,7 +81,7 @@
   width: 80%;
   margin: auto;
   padding: 60px;
-  background-color: rgb(var(--rgbText) / 0.125);
+  background-color: rgb(var(--resumeBackground) / 0.25);
   /* height:2000px; */
   z-index: 1000;
 

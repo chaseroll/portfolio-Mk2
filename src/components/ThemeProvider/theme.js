@@ -119,6 +119,7 @@ const dark = {
   rgbSelect: "0 0 0",
   rgbBackground: '12 12 12',
   rgbBackgroundLight: '26 26 26',
+  resumeBackground: '0 0 0',
   rgbPrimary: '255 255 255',
   rgbAccent: '242 242 242',
   rgbText: '255 255 255',
@@ -134,13 +135,14 @@ const light = {
   rgbBackground: '242 242 242',
   rgbSelect: "242 242 242",
   rgbBackgroundLight: '255 255 255',
+  resumeBackground: '150 150 150',
   rgbPrimary: '0 0 0',
   rgbAccent: '12 12 12',
   rgbText: '0 0 0',
   rgbButtonText: '255 255 255',
   rgbError: '255 0 60',
   colorTextTitle: 'rgb(var(--rgbText) / 1)',
-  colorTextBody: 'rgb(128 128 128)',
+  colorTextBody: 'rgb(75 75 75)',
   colorTextLight: 'rgb(var(--rgbText) / 0.6)',
 };
 
